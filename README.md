@@ -6,6 +6,8 @@ This hackathon was a 36 hour event gathering developers, product managers, desig
 
 I was part of a team of 5 working with SEW (Supporting and Empowering Women) to regain their online prescence.
 
+![Ecommerce Store Overview Image](https://github.com/chrisstaudinger/Hack-For-Humanity-Project/blob/master/images/overview.png?raw=true "Ecommerce Store Overview Image")
+
 
 ## Result
 
@@ -27,3 +29,17 @@ Although it would have been fun to tackle the problem from scratch, it made a lo
 ## Sumnary / Conclusion
 
 The hackathon was a huge success and a lot of fun! SEW was extremely greatful and astonished with what we were able to achieve and are/have migrated the site to their own hosting. It was/is a really great feeling knowing that the hard work we put in will be changing the lives of people with less fortunate circumstances 🙏
+
+### Home
+
+![Home page image](https://github.com/chrisstaudinger/Hack-For-Humanity-Project/blob/master/images/home/home-overview.png?raw=true "Home page image")
+
+### Products
+
+![Products overview image](https://github.com/chrisstaudinger/Hack-For-Humanity-Project/blob/master/images/products/products-overview.png?raw=true "Products overview image")
+
+### About
+
+![About overview image](https://github.com/chrisstaudinger/Hack-For-Humanity-Project/blob/master/images/about/about-overview-1.png?raw=true "About overview image")
+
+![About overview image](https://github.com/chrisstaudinger/Hack-For-Humanity-Project/blob/master/images/about/about-overview-2.png?raw=true "About overview image")
